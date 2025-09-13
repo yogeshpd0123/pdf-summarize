@@ -27,7 +27,7 @@ pdf-summarizer/
 ├─ requirements.txt
 ├─ main.py            
 ├─ utils.py          
-├─flowcharts.svg
+├─flowcharts.png
 
 
 ---

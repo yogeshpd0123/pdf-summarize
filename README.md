@@ -16,9 +16,9 @@ A small Streamlit app that summarizes PDF documents using **LangChain**, **Huggi
 ---
 
 ## Flowchart
-flowcharts.svg
+flowcharts.png
 
-## Repo structure (suggested)
+## Repo structure
 
 ```
 pdf-summarizer/
